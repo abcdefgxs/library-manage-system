@@ -1,0 +1,16 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\bin\Debug\DAL.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\bin\Debug\DAL.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\DAL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\DAL\bin\Debug\Model.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\bin\Debug\DAL.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\bin\Debug\DAL.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\bin\Debug\Model.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\bin\Debug\Model.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.pdb

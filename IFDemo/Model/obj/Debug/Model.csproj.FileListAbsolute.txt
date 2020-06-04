@@ -1,0 +1,10 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\obj\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\obj\Debug\Model.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\bin\Debug\Model.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\bin\Debug\Model.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.pdb

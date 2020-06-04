@@ -1,0 +1,24 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\BLL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\BLL.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\BLL.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Common.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\DAL.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Model.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Common.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\DAL.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Model.pdb
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.dll
+I:\图书管理系统\Csharplibrary(jb51.net)\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.pdb
