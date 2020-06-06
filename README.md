@@ -3,6 +3,8 @@
 
 ### 在sql server 2019中执行script.sql脚本 来创建数据表
 
+## 接着在app.json的连接字符串改为自己连接刚新建的数据库的连接字符串
+
 ## 运行结果截图
 ![image.png](https://i.loli.net/2020/06/04/j9RSD6Hiymuwk3U.png)
 
