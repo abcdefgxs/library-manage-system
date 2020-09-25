@@ -1,7 +1,7 @@
 # library-manage-system
 library-manage-system
 
-### 在sql server 2019中执行script.sql脚本 来创建数据表
+### 在sql server 2019中执行script.sql脚本 来创建数据库
 
 ## 接着在app.json的连接字符串改为自己连接刚新建的数据库的连接字符串
 
